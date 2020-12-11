@@ -1,2 +1,2 @@
 #ignore executable files for each chapter
-**/a.out
+chapter-1/a.out
